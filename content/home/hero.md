@@ -17,7 +17,7 @@ hero_media = "user-2.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  color = "#656565"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -28,7 +28,7 @@ hero_media = "user-2.jpg"
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -42,6 +42,6 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+# **Morgan "Les" DeBusk-Lane**
+## **Educational Data Scientist** specializing in **predictive analytics**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.

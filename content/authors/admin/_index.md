@@ -14,7 +14,7 @@ education:
   - course: BSc in Psychology
     institution: Pennsylvania State University
 
-email: ""
+email: "mldebusklane@gmail.com"
 interests:
 - Student Motivation
 - Predictive Modeling

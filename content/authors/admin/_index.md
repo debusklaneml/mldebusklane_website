@@ -2,54 +2,52 @@
 authors:
 - admin
 avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-btn:
-- label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
-display_education: false
+# bio: Please tell me where this is!!!
+# btn:
+# - label: Download Resume
+#   url: https://sourcethemes.com/academic/docs/install/
+display_education: true
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Educational Psychology
+    institution: Virginia Commonwealth University
+  - course: BSc in Psychology
+    institution: Pennsylvania State University
+
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
+- Student Motivation
+- Predictive Modeling
+- Latent Profile Analysis
+- Machine Learning
+name: M. L. DeBusk-Lane, Ph.D.
 organizations:
-- name: Stanford University
+- name: "Educational Researcher"
   url: ""
-role: Professor of Artificial Intelligence
+role: Educational Data Scientist
+
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mldebusklane
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=QflYOjsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/debusklaneml
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher, aviator, father, husband, and one who easily gets lost in figuring out just about anything.
 
-![reviews](../../img/certifacates.jpg)
+My research focuses on writing self-efficacy and feedback, emotional reactivity, working memory, and various other musings such as creativity and intelligence in the student population. I am also deeply interested in unique quantitative methods, mixtures models, measurement design, machine learning, and longitudinal growth.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+I am currently employed as an educational researcher at a large school division in Virginia. I mainly wrangle data (#rstats), provide predictive analytics to optimize student success with unique groupings and machine learning, and help manage our data-warehouse that provides practitioners with vital data analytics to enable them to make data informed decisions.
+

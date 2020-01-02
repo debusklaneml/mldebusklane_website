@@ -17,24 +17,24 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Analysis"
+  name = "Predictive Analytics"
   parcent = "90%"
   
 [[feature]]
-  icon = "user-secret"
+  icon = "users"
   icon_pack = "fas"
   name = "Leadership"
-  parcent = "80%"  
+  parcent = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
+  name = "R/Python"
+  parcent = "99%"
   
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "search-plus"
+  icon_pack = "fas"
   name = "Research"
   parcent = "95%"
 

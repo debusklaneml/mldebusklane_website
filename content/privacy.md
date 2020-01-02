@@ -5,7 +5,5 @@ header:
   caption: ""
   image: ""
 share: false
-title: Privacy Policy
+title: © 2020 M. L. DeBusk-Lane
 ---
-
-...

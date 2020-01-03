@@ -20,6 +20,8 @@ tags:
 - Motivation
 - LPA
 title: "Motivation belief profiles in science: Links to classroom goal structures and achievement"
+# Links (optional).
+url_pdf = "files/clb.mld.2018.pdf"
 ---
 
 {{% alert note %}}
@@ -30,4 +32,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Full article may be found [here](https://github.com/debusklaneml/mldebusklane_website/blob/master/static/files/clb.mld.2018.pdf).

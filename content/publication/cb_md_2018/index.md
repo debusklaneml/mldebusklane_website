@@ -5,21 +5,26 @@ date: "2018-08-04T00:00:00Z"
 doi: "10.1016/j.lindif.2018.08.003"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ""
   focal_point: ""
   preview_only: false
 links: null
 projects: null
-publication: ""
+publication: "*Learning and Individual Differences*, (67)"
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2018-08-04T00:00:00Z"
 summary: A person-centered approach to examining motivation belief profiles among MS students.
 tags:
-- Source Themes
+- Motivation
+- LPA
 title: "Motivation belief profiles in science: Links to classroom goal structures and achievement"
 ---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
 
 {{% alert note %}}
 Click the *Slides* button above to demo academia's Markdown slides feature.
